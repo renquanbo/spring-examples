@@ -1,0 +1,18 @@
+dn: dc=didispace,dc=com
+objectClass: top
+objectClass: domain
+
+dn: ou=people,dc=didispace,dc=com
+objectclass: top
+objectclass: organizationalUnit
+ou: people
+
+dn: uid=julia,ou=people,dc=didispace,dc=com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+cn: chris julia
+sn: chris
+uid: julia
+userPassword: 123321
