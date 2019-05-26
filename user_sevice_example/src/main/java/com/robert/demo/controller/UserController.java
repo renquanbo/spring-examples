@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletRequest;
 
 @RestController
 @RequestMapping("/user")
-public class demoController {
+public class UserController {
     @GetMapping
     public String handleRequest(HttpServletRequest request){
         return "Hello User";

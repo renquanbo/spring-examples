@@ -1,4 +1,4 @@
-package com.robert.demo.Repository;
+package com.robert.demo.repository;
 
 import com.robert.demo.dataobject.Person;
 import org.springframework.data.repository.CrudRepository;
