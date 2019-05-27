@@ -8,10 +8,10 @@ objectclass: organizationalUnit
 ou: people
 
 dn: uid=ben,ou=people,dc=didispace,dc=com
-objectclass: top
-objectclass: person
-objectclass: organizationalPerson
-objectclass: inetOrgPerson
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
 cn: didi
 sn: zhaiyongchao
 uid: didi
